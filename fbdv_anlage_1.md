@@ -73,6 +73,10 @@ Trennung von Berechtigungsbewilligung (organisatorisch) durch Abteilungsleitung 
 
 _Maßnahmen, die gewährleisten, dass personenbezogene Daten bei der elektronischen Übertragung oder während ihres Transports oder ihrer Speicherung auf Datenträger nicht unbefugt gelesen, kopiert, verändert oder entfernt werden können, und dass überprüft und festgestellt werden kann, an welche Stellen eine Übermittlung personenbezogener Daten durch Einrichtungen zur Datenübertragung vorgesehen ist._
 
+Die zur Erbringung der Dienstleistung durch den Auftragnehmer genutzten Server
+befinden sich auschließlich in Rechenzentren auf dem Gebiet der Bundesrepublik
+Deutschland.
+
 Maßnahmen zur Weitergabekontrolle bei Wartung und Pflege der Hosting-Plattform:
 
 - Verschlüsselte Übertragung der Daten, z.B. via SSH/SCP
