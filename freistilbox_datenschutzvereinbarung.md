@@ -20,7 +20,7 @@ und
 
 freistil IT Ltd  
 13 Upper Baggot Street, 2nd Floor  
-Dublin 4, D04 W7K5  
+Dublin D04 W7K5  
 Irland
 
 _- Auftragnehmer -_
